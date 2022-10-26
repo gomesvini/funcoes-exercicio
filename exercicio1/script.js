@@ -41,7 +41,7 @@ const tabuada = (num) => {
     console.log(mult)
         
 }
-tabuada(5);
+tabuada(20);
 
 const tabuada2 = function (num){
     let mult =num * 0;
@@ -67,5 +67,4 @@ const tabuada2 = function (num){
     mult = num * 10;
     console.log(mult)
 }
-tabuada2(3)
-
+tabuada2(70)
